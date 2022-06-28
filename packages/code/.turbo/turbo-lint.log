@@ -1,0 +1,2 @@
+[35mcode-package:lint[0m: cache hit, replaying output [2mc5d3436c0a67e849[0m
+[35mcode-package:lint: [0mWarning: React version was set to "detect" in eslint-plugin-react settings, but the "react" package is not installed. Assuming latest React version for linting.
